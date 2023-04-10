@@ -5,4 +5,4 @@ read mesage
 
 git add .
 git commit -m "$message"
-git pusiiiiiih
+git push
