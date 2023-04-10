@@ -6,3 +6,5 @@ read mesage
 git add .
 git commit -m "$message"
 git push
+
+learning to automate my work
