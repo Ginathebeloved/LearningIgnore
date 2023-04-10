@@ -4,4 +4,4 @@ Hi My name is Gina
 
 **I love I
 
-Teasting Automation, forever learning
+*Teasting Automation, forever learning*
